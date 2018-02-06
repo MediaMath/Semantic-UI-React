@@ -18,6 +18,7 @@
   <a href="https://circleci.com/gh/Semantic-Org/Semantic-UI-React/tree/master">
     <img alt="Circle" src="https://img.shields.io/circleci/project/Semantic-Org/Semantic-UI-React/master.svg?style=flat-square" />
   </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FMediaMath%2FSemantic-UI-React?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FMediaMath%2FSemantic-UI-React.svg?type=shield"/></a>
   <a href="https://codecov.io/gh/Semantic-Org/Semantic-UI-React">
     <img alt="Codecov" src="https://img.shields.io/codecov/c/github/Semantic-Org/Semantic-UI-React/master.svg?style=flat-square" />
   </a>
@@ -216,3 +217,7 @@ Big thanks to our [contributors][20], especially:
 [100]: https://github.com/wyc/semantic-ui-react-todos
 [101]: https://github.com/reactjs/redux/tree/master/examples/todos
 [102]: https://github.com/Metnew/react-semantic.ui-starter
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMediaMath%2FSemantic-UI-React.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMediaMath%2FSemantic-UI-React?ref=badge_large)
